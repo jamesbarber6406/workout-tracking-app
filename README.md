@@ -6,6 +6,11 @@ This project was created to serve as a convenient place to host a workout compet
 
 All users given the status "Competitor" would officially rank. Any user not interested in competing could set themselves as a "Neutral Observer". Neutral Observers still have stats but don't officially rank. At the end of the competition, the losers must call the winner Sensei, for some amount of time. The losers must also do some number of burpees as punishment which depend on final ranking.
 
+## Live Demo
+
+View-only Google Sheets version:
+https://docs.google.com/spreadsheets/d/18Y9IaOtdmAgsUPky59n0J48ghR1ju-SU79uJwj3hXj8/edit?usp=sharing
+
 ---
 
 # Features
