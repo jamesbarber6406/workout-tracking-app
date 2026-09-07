@@ -103,9 +103,9 @@ function submitWorkout_(ss) {
       let totalWeight = "";
 
       if (reps) {
-        totalWeight = effectiveWeight * reps;
+        totalWeight = effectiveWeight * reps * multiplier;
       } else if (effectiveWeight) {
-        totalWeight = effectiveWeight;
+        totalWeight = effectiveWeight * multiplier;
       }
 
       let weightScore = "";
